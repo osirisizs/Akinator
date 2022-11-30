@@ -1,0 +1,24 @@
+﻿FAILURE MODE,No application of material,Too little or too much material is applied,No application of material in places,Material is escaping,Air is escaping from pneumatic drive,AK 4xx installation gun/gun is not opening,No supply of material from dosing unit/barrel pump,Material is not sufficiently heated,Insufficient supply of material,Material contains hardened pieces (lumps),AK 4xx installation gun/gun is not closing properly,Material is escaping from material unit,SCA controller switched off,Driver card in the controller is defective,Valve bolt is jammed,Dosing unit is filling up,Barrel pump compressed air supply off,Stop valve closed,Barrel empy,Heater switched off,Heating cartridge is faulty,Temperature sensor is faulty,Dosing unit is leaky,Material hose is blocked,Material hose is leaky,Material unit is blocked,Nozzle is blocked,Air in the system,Lumps on the pintle seat,Pintle seat damage
+AK 4xx installation gun/gun is not opening because the SCA controller is switched off,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AK 4xx installation gun/gun is not opening because the driver card is defective,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AK 4xx installation gun/gun is not opening because the valve bolt is jammed,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No supply of material because the dosing unit is filling up,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No supply of material because the barrel pump compressed air supply is not activated,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+No supply of material because the pressure release of barrel pump is activated,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+No supply of material because the stop valve is closed,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No supply of material because the barrel is empty,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Material is not sufficiently heated because the heater is not switched on,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Material is not sufficiently heated because the heating cartridge is faulty,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Material is not sufficiently heated because the temperature sensor is faulty,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Insufficient supply of material because the dosing unit is leaky,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Insufficient supply of material because the material hose is blocked,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Insufficient supply of material because the material hose is leaky,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Material unit is blocked because the material contains lumps,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Nozzle is blocked because the material contains lumps,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Material hose is blocked because the material contains lumps,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Material contains lumps because of air in the system,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+AK 4xx installation gun/gun is not closing properly because of lumps on the pintle seat,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+AK 4xx installation gun/gun is not closing properly because the pintle seat is damage,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AK 4xx installation gun/gun is not closing properly because the valve bolt is damage,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Material unit is leaky,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pneumatic drive is leaky,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
